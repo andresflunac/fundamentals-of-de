@@ -42,3 +42,4 @@
 ### Monolith vs Modular
 - Monoliths: Easy to reason about, lower cognitive burden. Excellent option if you want simplicity in reasoning about your architectures and processes.
 - Modularity: Components are swappable, and it's possible to create a polyglot (multiprogramming language) application. Modularity allows engineers to choose the best technology for each job or step along the pipeline.
+- Distributed monolith pattern
